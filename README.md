@@ -36,8 +36,4 @@ It analyzes job descriptions and generates a personalized **interview preparatio
    - ✅ 10 interview questions  
    - ✅ A detailed career roadmap  
 3. A **personalized PDF** is created  
-4. The PDF is sent directly to the user’s **email inbox**  
-
----
-
-## 📂 Project Structure
+4. The PDF is sent directly to the user’s **email inbox**
